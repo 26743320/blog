@@ -1,0 +1,9 @@
+.page-header{display:-ms-flexbox;display:flex}
+.page-header{-ms-flex-wrap:wrap;flex-wrap:wrap}
+.page-header{-ms-flex-align:center;align-items:center}
+
+.page-header{border-bottom:#dee2e6 solid 1px;margin-bottom:1rem;padding-bottom: 0px;margin: 0px}
+.page-header h1,.page-header h2{margin-right:auto}
+.page-header .nav-tabs{align-self:flex-end;border-bottom:0}
+
+
